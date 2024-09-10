@@ -1,0 +1,19 @@
+{
+  "name": "House-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cassioklebio/House-api.git",
+  "author": "cassio klebio <cassiotr2009@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.20.0"
+  },
+  "scripts": {
+    "dev": "nodemon src/server.js"
+    
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "sucrase": "^3.35.0"
+  }
+}
